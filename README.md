@@ -4,8 +4,10 @@ For installing default apps on Student Laptops with a fresh install
 
 
 
-Because I'm Tired of bloatware on Dell laptops 
+
 # Darc Debloater
+Because I'm Tired of bloatware on Dell laptops 
+
 
 winGet Darc Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
 
