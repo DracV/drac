@@ -4,7 +4,7 @@
 Just random files to work with. Not of use to anyone else really.
 # wingetdebloated
 
-winGetDebloated is a bloatware removal tool for windows 10 and above made in batch using the [winget package manager](https://github.com/microsoft/winget-cli)
+winGet Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
 
 ## Winget
 Update or install winget [here](https://www.microsoft.com/p/app-installer/9nblggh4nns1)
@@ -14,7 +14,7 @@ Just copy and paste this command into a command prompt with Administrator rights
     powershell iwr https://raw.githubusercontent.com/2rf/winGetDebloated/main/wingetdebloated.bat -o wingetdebloated.bat && wingetdebloated.bat
 
 ### Remove:
-If wingetdebloated is no longer needed remove it with:
+If debloater is no longer needed remove it with:
     
     del wingetdebloated.bat
     
