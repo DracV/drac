@@ -4,4 +4,6 @@ winget install Oracle.JavaRuntimeEnvironment;
 winget install XPDNZJFNCR1B07;
 winget install Zoom.Zoom;
 winget install XPDP273C0XHQH2;
-winget install VideoLAN.VLC
+winget install VideoLAN.VLC;
+winget install  Microsoft.VCRedist.2015+.x64;
+
