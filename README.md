@@ -16,7 +16,7 @@ Just copy and paste this command into a command prompt with Administrator rights
 ### Remove:
 If debloater is no longer needed remove it with:
     
-    del wingetdebloated.bat
+    del DarcDebloater.bat
     
 ## What will it remove?
 
