@@ -1,7 +1,7 @@
 
                
 
-Just random files to work with. Not of use to anyone else really.
+Because I'm Tired of bloatware on Dell laptops 
 # wingetdebloated
 
 winGet Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
