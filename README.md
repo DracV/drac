@@ -1,4 +1,5 @@
-
+#Class Ps1
+For installing default apps on Student Laptops with a fresh install
                
 
 Because I'm Tired of bloatware on Dell laptops 
