@@ -1,4 +1,4 @@
-#Class Ps1
+# Class Ps1
 For installing default apps on Student Laptops with a fresh install
                
 
