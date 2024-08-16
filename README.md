@@ -2,7 +2,7 @@
                
 
 Because I'm Tired of bloatware on Dell laptops 
-# wingetdebloated
+# winget debloater
 
 winGet Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
 
@@ -76,9 +76,6 @@ Clipchamp
 
 ## The script accidentally deleted an app that I wanted to keep.
 
-You can get the app you want back by using `winget install <package name>`. Say you wanted to keep the calculator app that the script removed, you can just do `winget install calculator`. Alternatively, look the application up on the microsoft store.
+You can get the app you want back by using `winget install <package name>`. If you wanted to keep the calculator app you can just do `winget install calculator`. 
 
-## Contributing
-Pull requests are welcome. Please make a Issue or pull request on what to add, I am only able to update this repository once in a while since I do not install windows 11 a lot and do not know what bloatware has been added, this tool does work fully for windows 10 though
-
-## Thank you for using this.
+Please don't use this. Experimenting for my own purposes.
