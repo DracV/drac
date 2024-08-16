@@ -4,12 +4,12 @@
 Because I'm Tired of bloatware on Dell laptops 
 # Darc Debloater
 
-winGet Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
+winGet Darc Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
 
 ## Winget
 Update or install winget [here](https://www.microsoft.com/p/app-installer/9nblggh4nns1)
 
-Just copy and paste this command into a command prompt with Administrator rights:
+Copy and paste this command into a command prompt with Administrator rights:
 
     powershell iwr https://raw.githubusercontent.com/DracV/drac/blob/main/DarcDebloater.bat -o DarcDebloater.bat && DarcDebloater.bat
 
