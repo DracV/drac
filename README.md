@@ -1,5 +1,6 @@
 # Class Ps1
 For installing default apps on Student Laptops with a fresh install.
+
 Copy and paste this command into a command prompt with Administrator rights:
 
     powershell iwr https://raw.githubusercontent.com/DracV/drac/main/Class.ps1   
