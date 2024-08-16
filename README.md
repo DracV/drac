@@ -2,7 +2,7 @@
                
 
 Because I'm Tired of bloatware on Dell laptops 
-# winget debloater
+# Darc Debloater
 
 winGet Debloater using the [winget package manager](https://github.com/microsoft/winget-cli)
 
