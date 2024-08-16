@@ -11,7 +11,7 @@ Update or install winget [here](https://www.microsoft.com/p/app-installer/9nblgg
 
 Just copy and paste this command into a command prompt with Administrator rights:
 
-    powershell iwr https://raw.githubusercontent.com/2rf/winGetDebloated/main/wingetdebloated.bat -o wingetdebloated.bat && wingetdebloated.bat
+    powershell iwr https://raw.githubusercontent.com/DracV/drac/blob/main/DarcDebloater.bat -o DarcDebloater.bat && DarcDebloater.bat
 
 ### Remove:
 If debloater is no longer needed remove it with:
